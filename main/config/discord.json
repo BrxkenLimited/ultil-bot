@@ -1,0 +1,46 @@
+{
+    "main": {
+        "name": "Utility X",
+        "website": "http://localhost:5000"
+    }, 
+    "user": {
+        "main": {
+            "token": "OTk1OTUzNDU1MzM0MTcwNjQ1.GaHVUD.bsjbGfRKkZwGFuqHyBhEOs0DzX35eWHEdCBq9k",
+            "id": "995953455334170645",
+            "statusMessageId": "995967212449968198",
+            "inviteURL": "https://discord.com/api/oauth2/authorize?client_id=995953455334170645&permissions=8&scope=bot%20applications.commands"
+        },
+        "beta": {
+            "token": "OTk1OTUzNjg2MzY5MDMwMTk0.Glcp_i.GoadIbv1NURkqYJ9T1lVOpej5YTM2DFU7TWEMk",
+            "id": "995953686369030194",
+            "statusMessageId": "995967487256563725",
+            "inviteURL": "https://discord.com/api/oauth2/authorize?client_id=995953686369030194&permissions=8&scope=bot%20applications.commands"
+        }
+    },
+    
+    "developer": {
+        "tag": "DDS Team",
+        "id": ["554289787859632156", "938333796560961627", "843131483597570068"]
+    },
+
+    "logs": {
+        "guildCreateChannel": "995952217561514091",
+        "guildDeleteChannel": "995952217561514091",
+        "statusChannel": "995952217561514089",
+        "dmsChannel": "995952712803950723"
+    },
+
+    "server": {
+        "invite": "https://discord.gg/2jDnQ7C7rq",
+        "id": "995952216647151736",
+
+        "channels": {
+            "welcome": "995952220442984574",
+            "bye": "995952220442984574"
+        }
+    },
+
+    "vote": {
+        "topgg": "https://top.gg"
+    }
+}
